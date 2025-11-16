@@ -44,7 +44,7 @@ The robot is built to navigate uneven terrain, reduce labor needs, and improve c
 
 ---
 
-## Authors
+## Team Members
 
 - Version 1: Ali Ismail, Michel Abi Saab, Antony Nachar, Carlo Sadek, and Jessica Tannous.
 - Version 2: Ali Ismail. Michel Abi Saab, Jessica Tannous.
